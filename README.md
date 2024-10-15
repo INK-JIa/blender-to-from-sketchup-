@@ -5,3 +5,5 @@
   3.sketchup插件默认文件交换的路径是：documents-blendsu文件夹C:\Users\yours\Documents\blendsu，因此要在belnder插件设置中设置此路径；
   
   4.本人不是专业的程序员，此插件仅为交流学习使用，希望专业的你能够完善这个插件！
+
+  5.请下载py和rbz的文件安装，如果想要编辑sketchup插件，请下载rb文件！
